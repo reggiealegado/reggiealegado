@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Reggie! <br/><a>Cyber Security Analyst</a>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Amazon Web Services</b>
+  - [Network and Security set up](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>AWS IAM - RBAC Implementation</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Windows Server - Domain Controller Implementation and Set up</b>
+  - [AD, DHCP, DNS, IIS](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <!--
-**reggiealegado/reggiealegado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
