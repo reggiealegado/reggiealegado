@@ -1,9 +1,9 @@
-<h1>Hi, I'm Reggie! <br/><a>Aspiring Cyber Security Analyst</a>
+<h1>Hello, I'm Reggie! <br/><a>Aspiring Cyber Security Analyst</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [Network and Security set up](https://drive.google.com/file/d/1weUHbTAUo4rqtZkqT5eMX5xGeMemYvTx/view?usp=sharing) (_Google Drive_)
+  - [Network and Security set up](https://drive.google.com/file/d/1Lw7wfgYXKKeI_UOh6Rkfa6rw_xcTgu06/view?usp=sharing) (_Google Drive_)
 - <b>AWS IAM - RBAC Implementation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Windows Server - Domain Controller Implementation and Set up</b>
