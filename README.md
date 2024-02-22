@@ -1,13 +1,13 @@
-<h1>Hi, I'm Reggie! <br/><a>Cyber Security Analyst</a>
+<h1>Hi, I'm Reggie! <br/><a>Aspiring Cyber Security Analyst</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [Network and Security set up](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network and Security set up](https://drive.google.com/file/d/1weUHbTAUo4rqtZkqT5eMX5xGeMemYvTx/view?usp=sharing) (_Google Drive_)
 - <b>AWS IAM - RBAC Implementation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Windows Server - Domain Controller Implementation and Set up</b>
-  - [AD, DHCP, DNS, IIS](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [AD, DHCP, DNS, IIS](https://drive.google.com/file/d/1weUHbTAUo4rqtZkqT5eMX5xGeMemYvTx/view) (_Google Drive_)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
