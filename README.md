@@ -5,7 +5,7 @@
 - <b>Amazon Web Services</b>
   - [Network and Security Set Up](https://drive.google.com/file/d/1Lw7wfgYXKKeI_UOh6Rkfa6rw_xcTgu06/view?usp=sharing) (_Google Drive Video_)
 - <b>AWS IAM - RBAC Implementation</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Collaborative Project](https://drive.google.com/file/d/1TlJFRCdoTmXGAbgageWJvw4RMH9y72XV/view?usp=sharing) (_Google Drive PDF_)
 - <b>Windows Server - Domain Controller Implementation and Set Up</b>
   - [AD, DHCP, DNS, IIS](https://drive.google.com/file/d/1weUHbTAUo4rqtZkqT5eMX5xGeMemYvTx/view) (_Google Drive Video_)
 
