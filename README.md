@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [Network and Security set up](https://drive.google.com/file/d/1Lw7wfgYXKKeI_UOh6Rkfa6rw_xcTgu06/view?usp=sharing) (_Google Drive_)
+  - [Network and Security Set Up](https://drive.google.com/file/d/1Lw7wfgYXKKeI_UOh6Rkfa6rw_xcTgu06/view?usp=sharing) (_Google Drive Video_)
 - <b>AWS IAM - RBAC Implementation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Windows Server - Domain Controller Implementation and Set up</b>
-  - [AD, DHCP, DNS, IIS](https://drive.google.com/file/d/1weUHbTAUo4rqtZkqT5eMX5xGeMemYvTx/view) (_Google Drive_)
+- <b>Windows Server - Domain Controller Implementation and Set Up</b>
+  - [AD, DHCP, DNS, IIS](https://drive.google.com/file/d/1weUHbTAUo4rqtZkqT5eMX5xGeMemYvTx/view) (_Google Drive Video_)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
